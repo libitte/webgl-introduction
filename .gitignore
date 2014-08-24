@@ -4,3 +4,6 @@ dist
 *.log
 .sass-cache
 index.html
+*.swp
+.DS_Store
+memo

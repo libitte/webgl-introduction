@@ -1,3 +1,3 @@
-##  GL demos
+## GLSL demo
 
 http://glsl.heroku.com/
