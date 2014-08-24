@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "WebGL",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "libitte",
+    "githubRepository": "webgl-introduction"
+  }
+}
