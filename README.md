@@ -23,7 +23,11 @@ memo
 
 #### pdf 出力
 
-https://gist.github.com/uupaa/7744760
+http://localhost:9000/?print-pdf#/
+
+にアクセスしてpdfに出力する.
+
+see also. https://gist.github.com/uupaa/7744760
 
 #### DEMO
 
