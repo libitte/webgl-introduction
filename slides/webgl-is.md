@@ -1,4 +1,4 @@
-##  What is WebGL2
+##  What is WebGL? (2)
 
 browserでもOpenGLが使いたい！
 -> JavaScriptからOpenGLを呼び出せるようにした.
