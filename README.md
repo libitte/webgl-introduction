@@ -1,33 +1,37 @@
 webgl-introduction
 ==================
 
-markdown でページを作成
+Create a page with markdown
 
 ```
 % yo reveal:slide "Slide Title" --markdown
 ```
 
-web server を起動する.
+Launch a web server
 
 ```
 % grunt server
 ```
 
-http://localhost:9000/ にスライドが表示される.
+Check
+
+http://localhost:9000/
 
 
-cf. http://qiita.com/imura81gt/items/c04b32df7044cefa2849
+ref.
+http://qiita.com/imura81gt/items/c04b32df7044cefa2849
 
-memo
+note
 -----------
 
-#### pdf 出力
+#### Output as pdf
 
 http://localhost:9000/?print-pdf#/
 
 にアクセスしてpdfに出力する.
 
-see also. https://gist.github.com/uupaa/7744760
+ref.
+https://gist.github.com/uupaa/7744760
 
 #### DEMO
 
